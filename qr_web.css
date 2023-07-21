@@ -1,0 +1,28 @@
+body{
+    background-color: #d5e1ef;
+}
+
+.qr_box{
+    background-color: white;
+    height: 300px;
+    width: 220px;
+    border-radius: 20px;
+    padding: 12px;
+}
+
+.qr{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    padding-bottom: 5px;
+}
+
+.qr_para{
+    color:gray;
+    font-size: 10px;
+}
+
+.qr_head{
+    font-weight: bold;
+    font-family: ;
+}
